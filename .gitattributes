@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.sh text eol=lf
+*.cfg text eol=lf
+*.rc text eol=lf
+*.prop text eol=lf
+*.md text eol=lf
+*.ko binary
+*.bin binary
+*.hcd binary
+*.efi binary
